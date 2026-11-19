@@ -123,7 +123,7 @@ const translations: Record<Language, TranslationType> = {
     },
     footer: {
       getInTouch: 'Get In Touch',
-      copyright: '© 2026 Al-Emaar Building Solutions • Design and Developed by Innovex Technologies • All Rights Reserved',
+      copyright: '© 2026 Al-Emaar Building Solutions • Design and Developed by OptizerX • All Rights Reserved',
       address: 'Malik Fahad Road (Sittin) - Al Rabwah Dist., Jeddah 23342',
       description: 'Al-Emaar Building Solutions is your trusted partner for premium construction materials and building supplies. We provide comprehensive solutions for waterproofing, paints, adhesives, electrical items, plumbing, safety products, and construction materials to meet all your building needs with excellence and reliability.',
     },
